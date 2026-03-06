@@ -20,6 +20,7 @@ invited_list.insert(2, 'Robby Stark')
 print(invited_list[2].title() + "" + message)
 invited_list.append('cersei lannister')
 print(invited_list[-1].title() + "" + message)
+print("for this dinner i invited "+ str(len(invited_list))+ " peoples")
 print("======================================================")
 print("disinvited peoples: ")
 print("======================================================")
@@ -38,4 +39,5 @@ person_desinvited = invited_list.pop()
 print(person_desinvited.title() + " " + unfollow_message)
 del invited_list[-1]
 del invited_list[0]
+
 print(invited_list)
