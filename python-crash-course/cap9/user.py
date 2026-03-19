@@ -19,16 +19,16 @@ class User:
         print("as tentativas de login foram resetadas.")
 
 
-joao = User("joao", "lima")
-ingrid = User("ingrid", "melo")
-maria = User("maria sofia", "de melo lima")
+# joao = User("joao", "lima")
+# ingrid = User("ingrid", "melo")
+# maria = User("maria sofia", "de melo lima")
 
-joao.increment_login_attemps()
-print(
-    "as tentativas de login de ", joao.first_name.title(), "foram", joao.login_attemps
-)
-joao.reset_login_attemps()
-print(joao.first_name.title(), "tentativas de login:", joao.login_attemps)
+# joao.increment_login_attemps()
+# print(
+# "as tentativas de login de ", joao.first_name.title(), "foram", joao.login_attemps
+# )
+# joao.reset_login_attemps()
+# print(joao.first_name.title(), "tentativas de login:", joao.login_attemps)
 
 
 # joao.describe_user()

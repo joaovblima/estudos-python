@@ -21,6 +21,7 @@ class Restaurant:
         self.number_served += clients_served
 
 
+"""
 o_barbacoa = Restaurant("Barbacoa", "churrascaria brasileira")
 o_mao_de_onca = Restaurant("O mao de onca", "churrascaria brasileira")
 casa_do_gorumet = Restaurant("casa do gourmet", "restaurante regional")
@@ -35,3 +36,4 @@ o_barbacoa.set_number_served(24)
 print("o restaurante serviu " + str(o_barbacoa.number_served) + " pessoas")
 o_barbacoa.increment_number_served(22)
 print("o restaurante serviu " + str(o_barbacoa.number_served) + " pessoas")
+"""
