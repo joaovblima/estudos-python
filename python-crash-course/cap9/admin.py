@@ -16,5 +16,5 @@ class Privileges:
             print(privilege)
 
 
-admin = Admin("joao", "lima", ["can add post", "can delete post"])
-admin.privileges.show_privileges()
+# admin = Admin("joao", "lima", ["can add post", "can delete post"])
+# admin.privileges.show_privileges()

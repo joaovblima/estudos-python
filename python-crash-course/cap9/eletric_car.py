@@ -10,7 +10,7 @@ class EletricCar(car.Car):
         print("This car has a ", str(self.battery_size), "-kWh battery")
 
 
-my_tesla = EletricCar("tesla", "model s", 2016)
+# my_tesla = EletricCar("tesla", "model s", 2016)
 
-print(my_tesla.get_descritive_name())
-print(my_tesla.describe_battery())
+# print(my_tesla.get_descritive_name())
+# print(my_tesla.describe_battery())
