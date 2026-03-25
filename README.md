@@ -21,10 +21,6 @@ A ideia é centralizar tudo em um só lugar, facilitando a revisão e acompanhan
 ## 📂 Estrutura
 
 A estrutura do repositório será organizada por fonte de estudo:
-```text
-```
-```
-
 ``` text 
 estudos-python/
 │
