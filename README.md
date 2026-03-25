@@ -34,9 +34,7 @@ estudos-python/
 │ └── ...
 │
 └── extras/
-
 ```
-
 ## 🚀 Objetivo
 
 - Praticar Python de forma consistente  
@@ -48,15 +46,3 @@ estudos-python/
 
 Este repositório será atualizado constantemente conforme avanço nos estudos.
 
-## 🛠️ Tecnologias
-
-- Python 3
-
-## 📌 Observações
-
-Este é um repositório de estudos — o foco está no aprendizado, não necessariamente em código perfeito ou otimizado.
-
-
-```
-```
-```
