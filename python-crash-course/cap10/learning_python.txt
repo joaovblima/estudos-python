@@ -1,0 +1,11 @@
+fui obrigado a escrever esse arquivo txt pelo dono do livro, 
+ele pede para darmos um pequeno resumo do que aprendemos
+em python, eu acredito que não seja possível em um pequeno txt
+eu falar tudo que eu aprendi, no lugar disso vou contar qual minha expectativa aprendendo python e quais são os próximos passos: 
+
+Minha expectativa aprendendo python são as melhores possíveis,
+primeiro de tudo: é a linguagem da IA, segundo é uma sintaxe muito tranquila de escrever, com poucas palavras reservadas o que torna o aprendizado mais fluido, é verdade que eu achei a parte e objetos meio estranho em python como eu disse no anteriormente por conta do boilerplate feio que a linguage nos obriga a fazer mas de resto ta tudo certo. 
+
+Os próximos passos são: terminar esse curso, depois começear um curso de SQL e ficar proficiente assim como no python e depois partir pra FAST API e começar a escrever código lixo nas nossas APIs, criar projetos e projetos e colocar no github. 
+
+Depois que tiver fluente em todo ecossistema, backend, conceitos da web, virtualização, conteinerização e deploy, hora de aprender o tópico mais quente do momento, IA. Mas vai demorar um pouco então é aproveitar o processo. 

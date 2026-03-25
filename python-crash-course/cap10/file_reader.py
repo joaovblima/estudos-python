@@ -12,3 +12,4 @@ with open(arquivo) as file_object:
     # depois eu dou print em conteudo, que armazena tudo que tem no arquivo
     # conteudo = file_object.read()
     # print(conteudo)
+    #
